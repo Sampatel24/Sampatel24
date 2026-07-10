@@ -48,9 +48,8 @@ engineer:
     diagnose root cause, and self-heal — turning platform
     engineering from reactive to autonomous.
   open_to:
-    - Employer-sponsored AI / DevOps Engineering roles
+    - AI / DevOps Engineering roles
     - Platform Engineering & SRE opportunities
-    - Roles with a pathway to permanent residency
 ```
 
 <br/>
@@ -271,7 +270,7 @@ current_focus:
     - Model Context Protocol (MCP) server architectures
     - Multi-agent orchestration patterns at production scale
   open_to:
-    - Employer-sponsored AI / DevOps Engineering roles in Australia
+    - AI / DevOps Engineering roles in Australia
     - Platform Engineering & SRE positions
 ```
 
