@@ -188,22 +188,6 @@ Maintained security, availability, and reliability of a GCP-based data platform 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampatel24&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E6D9FF" width="49%"/>
-
-</div>
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sampatel24&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -211,18 +195,6 @@ Maintained security, availability, and reliability of a GCP-based data platform 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampatel24&theme=react-dark&bg_color=0F0524&color=A78BFA&line=8A2BE2&point=E6D9FF&hide_border=true"/>
 
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sampatel24/Sampatel24/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> _This animates automatically once you add the [snake workflow](https://github.com/Platane/snk) to this repository._
 
 <br/>
 
