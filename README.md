@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B2E83,100:8A2BE2&height=220&section=header&text=Samir%20Patel&fontSize=46&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20AI%20Infrastructure%20Engineer&descSize=18&descAlignY=58&descColor=C9B8F5" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+%26+AI+Infrastructure;DevSecOps+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Applying+Agentic+AI+to+Platform+Engineering;Open+to+Sponsored+AI%2FDevOps+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+%26+AI+Infrastructure;DevSecOps+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Applying+Agentic+AI+to+Platform+Engineering;Open+to+AI%2FDevOps+Engineering+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -174,36 +174,6 @@ Maintained security, availability, and reliability of a GCP-based data platform 
 | ⚙️ Infrastructure Automation | Reduced cloud provisioning time by up to 90% using Terraform |
 | 🤖 Autonomous Operations | Built a zero-touch Kubernetes self-healing agent with Claude + Temporal |
 | 📈 Reliability | Sustained 99.9% uptime SLA on enterprise-scale GCP data platform |
-
-</div>
-
-<br/>
-
-## 🎓 Certifications
-
-> _Add your certification badges here as you complete them — grouped by provider (AWS, Oracle, NPTEL, Cisco, etc.)_
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Add_Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Add_Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Add_Certification-4B2E83?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cisco-Add_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 💻 Coding Profiles
-
-> _Add your handles below to activate these badges_
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-add--your--handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-add--your--handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-add--your--handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-add--your--handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
 
