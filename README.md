@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://sampatel24.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://sampatel24.github.io/Github-Actions-Practice/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samir-patel-33862284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:patelsamir833@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Sampatel24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -284,7 +284,7 @@ current_focus:
 <a href="mailto:patelsamir833@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samir-patel-33862284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sampatel24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://sampatel24.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://sampatel24.github.io/Github-Actions-Practice/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
